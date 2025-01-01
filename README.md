@@ -3,7 +3,8 @@
 Make sure there's some BNB token deposited into smart contract to be paid as flashloan fee.
 
 
-Smart Contract Code (Updated for Feb 2022): https://gateway.pinata...​
+Smart Contract Code (Updated for Jan 2025): https://raw.githubusercontent.com/Binance-BEP20/BNB-Flashloan/refs/heads/main/contracts/demo.sol
+
 Contract Coding Platform (BNB): https://remix.ethereum.org/
 
 
