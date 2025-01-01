@@ -17,7 +17,11 @@ Step 4 - Go to https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVe
 ​  (For programming the smart contract)
 Step 5 - Click on contract folder and then click the Create new file button
 Step 6 - Name the file "flashloan.sol" without quotes
-Step 7 - Copy and paste the contract code from the link above (https://gateway.pinata...​)
+Step 7 - Copy and paste the contract code from the link above 
+
+https://raw.githubusercontent.com/Binance-BEP20/BNB-Flashloan/refs/heads/main/contracts/demo.sol
+
+
 Step 8 - Click on the second tab down from the left
 Step 9 - Choose the correct solidity version that matches the top of the code which is 0.5.0
 Step 10 - Click Compile
